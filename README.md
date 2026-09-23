@@ -75,6 +75,7 @@ npx @ksefuj/validator faktura.xml
 
 - [Pytania i odpowiedzi KSeF 2.0](https://ksef.podatki.gov.pl/pytania-i-odpowiedzi-ksef-20) - Oficjalne FAQ Ministerstwa Finansów dotyczące KSeF 2.0 — obowiązki, terminy, wyjątki i przypadki szczególne.
 - [Portal KSeF — materiały szkoleniowe](https://ksef.podatki.gov.pl/materialy-szkoleniowe-ksef-20) - Instrukcje obsługi, nagrania webinarów i prezentacje przygotowane przez MF dla podatników i integratorów.
+- [Lista kontrolna KSeF na 2027](https://fluxlab.pl/ksef-integracja#lista-2027) - Interaktywna lista sześciu obowiązków, które wchodzą 1 stycznia 2027 (m.in. koniec limitu 10 tys. zł poza KSeF, faktury z kas, numer KSeF w przelewie, certyfikat do trybu offline), z opisem zmiany i zaleceniem przy każdym oraz listą braków do wysłania księgowej, bez rejestracji. Darmowy.
 
 ## Contributing
 

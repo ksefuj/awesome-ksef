@@ -70,6 +70,7 @@ npx @ksefuj/validator faktura.xml
 
 - [Wizualizator e-Faktur (XML→PDF)](https://github.com/niutech/ksef-xml-pdf) - Kliencka aplikacja webowa do generowania wizualizacji e-faktury z pliku XML do formatu PDF/A-3 z osadzonym XML; dane nie są przesyłane na serwer. Open source (GPL-3.0). [Demo](https://ai-gov.pl/ksef-pdf)
 - [Pobieracz e-Faktur (PDF→XML)](https://github.com/niutech/ksef-pdf-xml) - Kliencka aplikacja webowa do pobierania pliku XML e-faktury z KSeF na podstawie kodu QR odczytanego z wizualizacji PDF; działa po stronie przeglądarki. Open source (GPL-3.0). [Demo](https://ai-gov.pl/ksef-xml)
+- [Czytnik Faktur](https://czytnikfaktur.com) - Przeglądarkowy czytnik plików XML FA(1), FA(2) i FA(3) z kontrolą XSD, NIP i sum, sprawdzeniem numeru KSeF i kodu QR oraz zapisem wizualizacji do PDF; plik nie opuszcza przeglądarki. Darmowy.
 
 ## Zasoby edukacyjne
 

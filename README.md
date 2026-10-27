@@ -36,6 +36,7 @@
 - [fa3.site](https://fa3.site) - Przeglądarkowy walidator FA(3) z podglądem wizualizacji faktury, zbudowany w React. Darmowy.
 - [KSeF Assistant](https://ksefu.pl) - Lokalny walidator XML z weryfikacją reguł biznesowych, sprawdzaniem NIP/IBAN i generowaniem raportów PDF. Freemium (10 walidacji miesięcznie za darmo).
 - [KSeF Guard](https://www.ksefguard.pl) - Walidator FA(3) offline (aplikacja desktopowa dla Windows oraz CLI) weryfikujący zgodność z XSD oraz 128 regułami biznesowymi przed wysłaniem do KSeF. Freemium (10 plików dziennie za darmo).
+- [FakturaFlow Walidator KSeF](https://fakturaflow.pl/walidator) - Przeglądarkowy walidator XML FA(3) działający po stronie klienta, który objaśnia znalezione błędy prostym językiem i przygotowuje raport do skopiowania. Freemium (3 walidacje dziennie bez logowania, bez limitu po darmowej rejestracji).
 
 ## Oprogramowanie do fakturowania
 

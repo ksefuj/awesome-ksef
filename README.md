@@ -65,6 +65,7 @@ npx @ksefuj/validator faktura.xml
 
 - [KSeF Invoice Monitor](https://github.com/mlotocki2k/KSeF_Monitor) - Serwis Python/Docker do cyklicznego monitorowania faktur w KSeF API v2 z powiadomieniami przez 5 kanałów (Pushover, Discord, Slack, e-mail, webhook), generowaniem PDF i eksportem metryk Prometheus. Open source (MIT).
 - [Weryfikator Kodów QR z KSeF](https://ai-gov.pl/ksef-qr) - Kliencka aplikacja webowa do weryfikacji kodów QR z e-faktur KSeF przez kamerę lub wgranie pliku graficznego; działa w całości po stronie przeglądarki. Darmowy.
+- [KSeF View Dashboard](https://github.com/AlRbv/ksef_view_dashboard) - Lokalny dashboard Streamlit tylko do odczytu, który synchronizuje metadane faktur wystawionych i otrzymanych z KSeF API v2 do SQLite i pokazuje sumy brutto i VAT, trendy oraz największych kontrahentów. Open source (MIT).
 
 ## Konwertery
 

@@ -40,6 +40,7 @@
 ## Oprogramowanie do fakturowania
 
 - [ProFak](https://github.com/lkosson/profak) - Darmowy program do fakturowania dla mikroprzedsiębiorstw i JDG (Windows), obsługujący faktury VAT, JPK oraz integrację z KSeF 2.0. Darmowy.
+- [Firmowid](https://firmowid.pl) - Webowy program do faktur dla małych firm usługowych z wysyłką i pobieraniem faktur z KSeF, automatycznym parowaniem przelewów z bankiem i ewidencją czasu pracy; można go też uruchomić na własnym serwerze. Open source (AGPL-3.0), plan darmowy bez limitu faktur.
 - [KsefInvoice](https://ksefinvoice.pl) - Desktopowa aplikacja (Windows, Linux) do wystawiania faktur z integracją KSeF, weryfikacją kontrahentów i lokalnym przechowywaniem danych. Darmowy.
 - [KSeFka](https://ksefka.com) - Desktopowa aplikacja (Windows, macOS, Linux) do fakturowania z pełną integracją KSeF, generowaniem PDF i lokalnym przechowywaniem danych. Darmowy.
 - [Ksefi](https://www.ksefi.com.pl) - Webowy generator faktur ustrukturyzowanych XML FA(3) wspomagany przez AI, działający bez rejestracji. Darmowy.
